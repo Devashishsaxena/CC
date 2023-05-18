@@ -1,0 +1,3 @@
+this is a string
+that will write in a file 
+one by one characters.

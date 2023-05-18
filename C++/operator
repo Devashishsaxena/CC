@@ -1,0 +1,28 @@
+Operator Overloading:When We redefine predefined opeators in user defined classes,this is called operator overloading.
+
+Arithmetic Op
++,-,*,/,++,--(unary),%
+
+Relational Op
+<,>,<=,>=,==,!=(binary)
+
+Box b1,b2;
+
+b1+b2;
+
++,-,*,/
+Counter
+Box(++,--)
+Dist 
+Money
+
+
+Relational Op:
+<,>,<=,>=,==,!=
+
+Counter
+Box
+Dist
+Money
+Time
+

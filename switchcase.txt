@@ -1,0 +1,19 @@
+switch - case:
+it is a multiple selection statement.
+Syntax
+switch(variable)   -->>int,char not float
+{
+	case 1:
+		statement...
+		break;
+	case 2:
+		statement...
+		break;
+	case n:
+		statement...
+		break;
+	default:
+		statement...
+		
+}
+
